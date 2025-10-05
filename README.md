@@ -6,3 +6,4 @@ Bài tập lớn Machine Learning
 
 - SKLearn
 - Pandas
+- Jupiter Notebook
